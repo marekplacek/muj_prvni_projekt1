@@ -1,0 +1,1 @@
+#První script na debug
